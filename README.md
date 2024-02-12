@@ -22,19 +22,19 @@ El proyecto "Poema en Código" presenta un poema personalizado en un entorno vis
 
 ```bash
 git clone https://github.com/Edwin4chg/Poema-en-Codigo.git
-```bash
+```
 
 2. Navega al directorio del proyecto:
 
 ```bash
 cd Poema-en-Codigo
-```bash
+```
 
 3. Instala las dependencias del proyecto:
 
 ```bash
 pip install -r requirements.txt
-```bash
+```
 
 ## Uso
 
@@ -42,6 +42,40 @@ pip install -r requirements.txt
 
 ```bash
 python Poema.py
-```bash
+```
 
 2. Se abrirá una ventana con el poema en la pantalla. Espera unos segundos y disfruta del poema mientras se despliega letra por letra.
+
+## Contribuciones
+
+Las contribuciones son bienvenidas y apreciadas. Si deseas contribuir al proyecto, por favor sigue estos pasos:
+
+1. Crea un fork del repositorio.
+    ```bash
+    git clone https://github.com/Edwin4chg/Poema-en-Codigo.git
+    ```
+
+2. Crea una nueva rama para tu función: 
+    ```bash
+    git checkout -b feature/nueva-funcion
+    ```
+
+3. Realiza tus cambios y haz commits explicativos: 
+    ```bash
+    git commit -am 'Agrega una nueva función: X'
+    ```
+
+4. Empuja la rama a tu repositorio remoto: 
+    ```bash
+    git push origin feature/nueva-funcion
+    ```
+
+5. Abre un pull request para que tus cambios sean revisados.
+
+## Créditos
+
+Este proyecto fue creado por Tu Nombre.
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo LICENSE.
