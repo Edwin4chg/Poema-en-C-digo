@@ -74,8 +74,8 @@ Las contribuciones son bienvenidas y apreciadas. Si deseas contribuir al proyect
 
 ## Créditos
 
-Este proyecto fue creado por Tu Nombre.
+Este proyecto fue creado por [Edwin Chigne](https://www.instagram.com/edwin4chg/).
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo LICENSE.
+Este proyecto está bajo la Licencia. Para más detalles, consulta el archivo LICENSE.
