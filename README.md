@@ -21,14 +21,27 @@ El proyecto "Poema en Código" presenta un poema personalizado en un entorno vis
 1. Clona el repositorio a tu máquina local:
 
 ```bash
-git clone https://github.com/tu_usuario/poema-en-codigo.git
+git clone https://github.com/Edwin4chg/Poema-en-Codigo.git
+```bash
 
 2. Navega al directorio del proyecto:
 
 ```bash
-cd poema-en-codigo
+cd Poema-en-Codigo
+```bash
 
 3. Instala las dependencias del proyecto:
 
 ```bash
 pip install -r requirements.txt
+```bash
+
+## Uso
+
+1. Ejecuta el script Poema.py para iniciar la aplicación:
+
+```bash
+python Poema.py
+```bash
+
+2. Se abrirá una ventana con el poema en la pantalla. Espera unos segundos y disfruta del poema mientras se despliega letra por letra.
