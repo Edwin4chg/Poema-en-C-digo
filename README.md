@@ -2,7 +2,10 @@
 
 Este proyecto es una aplicación de escritorio desarrollada en Python utilizando la biblioteca Tkinter para crear una experiencia interactiva que muestra un poema especial a través de un efecto de máquina de escribir en la pantalla.
 
-![Demo del proyecto](demo.gif)
+![image](https://github.com/Edwin4chg/Poema-en-Codigo/assets/98482516/de64e52e-1ffd-45c0-9024-68adde03218a)
+
+![image](https://github.com/Edwin4chg/Poema-en-Codigo/assets/98482516/624dc2ac-7029-4529-97b5-384fdeb4baf4)
+
 
 ## Descripción
 
